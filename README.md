@@ -9,13 +9,13 @@
 > 
 > SmartGuard is a next-generation SMS firewall that uses Deep Learning to intercept and neutralize phishing attacks in real-time.
 
-## 🚀 Live Demo
+## Live Demo
 **[Launch SmartGuard Secure Chat](https://sms-spam-classifier-nlp.vercel.app)**
 *(Works on Mobile & Desktop)*
 
 ---
 
-## 🛡️ Project Overview
+## Project Overview
 
 Traditional spam filters are passive—they sort mail after it arrives. **SmartGuard** acts as an **Active Sentinel Agent**. It sits between the incoming data stream and the user interface, analyzing message tokens in under **100ms**.
 
@@ -29,20 +29,19 @@ If a threat is detected (e.g., "URGENT," "WINNER," "FREE"), the agent **automati
 
 ---
 
-## 📸 Interface
+## Interface
 
 ### The Threat Scanner
 *A dedicated terminal for manual message analysis.*
-![Scanner UI](https://github.com/natinew77-creator/SMS-Spam-Classifier-NLP/assets/placeholder-scanner.png)
-*(Note: You can replace this link with a real screenshot from your repo)*
+![Scanner UI](client/public/assets/scanner_ui.png)
 
 ### The Active Agent Chat
 *A live simulation of a secure messaging app.*
-![Chat UI](https://github.com/natinew77-creator/SMS-Spam-Classifier-NLP/assets/placeholder-chat.png)
+![Chat UI](client/public/assets/chat_demo.png)
 
 ---
 
-## 🛠️ Technical Architecture
+## Technical Architecture
 
 ### The Brain (Machine Learning)
 *   **Framework**: TensorFlow / Keras
@@ -61,7 +60,7 @@ If a threat is detected (e.g., "URGENT," "WINNER," "FREE"), the agent **automati
 
 ---
 
-## 💻 Local Installation
+## Local Installation
 
 Want to run the "Active Agent" locally?
 
@@ -85,11 +84,10 @@ Want to run the "Active Agent" locally?
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Natneal**
 *   [LinkedIn](https://linkedin.com/in/natneal)
 *   [GitHub](https://github.com/natinew77-creator)
 
 ---
-*Built as a Capstone Project for the FreeCodeCamp Machine Learning Certification.*
