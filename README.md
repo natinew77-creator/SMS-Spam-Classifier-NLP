@@ -87,7 +87,7 @@ Want to run the "Active Agent" locally?
 ## Author
 
 **Natneal**
-*   [LinkedIn](https://linkedin.com/in/natneal)
+*   [LinkedIn](https://linkedin.com/in/natneal-belete)
 *   [GitHub](https://github.com/natinew77-creator)
 
 ---
