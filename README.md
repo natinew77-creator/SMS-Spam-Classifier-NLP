@@ -32,7 +32,7 @@ If a threat is detected (e.g., "URGENT," "WINNER," "FREE"), the agent **automati
 ## Interface
 
 ### The Threat Scanner
-*A dedicated terminal for manual message analysis.*
+*A terminal-like interface for manual message analysis.*
 ![Scanner UI](client/public/assets/scanner_ui.png)
 
 ### The Active Agent Chat
